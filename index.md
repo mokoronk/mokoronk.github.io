@@ -1,5 +1,5 @@
 # Michael Okoronkwo
-University at Buffalo, Mathematics (Undergraduate)
+Mathematics (Undergraduate)
 
 
 ## Simple Marked Length Rigidity for Metric Graphs 
